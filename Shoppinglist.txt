@@ -7,3 +7,5 @@ Carrots
 Bananas
 Avocados
 Cereal
+Cucumbers
+Raddishes
