@@ -6,3 +6,4 @@ Pears
 Carrots
 Bananas
 Avocados
+Cereal
