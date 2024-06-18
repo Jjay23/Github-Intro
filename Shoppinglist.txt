@@ -1,0 +1,8 @@
+Shopping List;
+
+Apples
+Mangoes
+Pears
+Carrots
+Bananas
+Avocados
